@@ -1,0 +1,27 @@
+.itemContact {
+  list-style: none;
+  display: flex;
+  font-size: 27px;
+  margin-bottom: 10px;
+}
+
+.nameContact {
+  margin-right: 7px;
+}
+
+.numberContact {
+  margin-right: 15px;
+}
+
+.btnDelete {
+  background-color: #fafbfc;
+  border: 1px solid rgb(11, 13, 144);
+  border-radius: 3px;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  padding: 3px 13px;
+}

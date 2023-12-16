@@ -1,0 +1,15 @@
+.inputFilter {
+  display: flex;
+  width: 400px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+.inputFilter:focus {
+  border: 3px solid rgb(27, 11, 129);
+}
